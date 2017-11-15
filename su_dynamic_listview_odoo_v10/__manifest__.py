@@ -1,12 +1,12 @@
 {
-    'name': 'Dynamic ListView Odoo 10 Advance',
-    'summary': 'Dynamic ListView Odoo 10 Advance',
+    'name': 'Inventory Show',
+    'summary': '',
     'version': '1.0',
     'category': 'Web',
     'description': """
-       Dynamic ListView Odoo 10 Advance
+       
     """,
-    'author': "startup",
+    'author': "",
     'depends': ['web'],
     'data': [
         'views/templates.xml',
@@ -23,6 +23,6 @@
     'auto_install': False,
     'application': False,
     'images': [
-        'static/description/module_image.png',
+
     ],
 }
